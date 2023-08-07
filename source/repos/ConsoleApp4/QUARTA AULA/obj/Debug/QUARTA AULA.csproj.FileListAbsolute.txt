@@ -1,0 +1,8 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\CURSO C# SENAC\QUARTA AULA\QUARTA AULA\bin\Debug\QUARTA AULA.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\CURSO C# SENAC\QUARTA AULA\QUARTA AULA\bin\Debug\QUARTA AULA.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\CURSO C# SENAC\QUARTA AULA\QUARTA AULA\bin\Debug\QUARTA AULA.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\CURSO C# SENAC\QUARTA AULA\QUARTA AULA\obj\Debug\QUARTA AULA.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\CURSO C# SENAC\QUARTA AULA\QUARTA AULA\obj\Debug\QUARTA AULA.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\CURSO C# SENAC\QUARTA AULA\QUARTA AULA\obj\Debug\QUARTA AULA.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\CURSO C# SENAC\QUARTA AULA\QUARTA AULA\obj\Debug\QUARTA AULA.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\CURSO C# SENAC\QUARTA AULA\QUARTA AULA\obj\Debug\QUARTA AULA.pdb

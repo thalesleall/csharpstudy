@@ -1,0 +1,8 @@
+D:\OneDrive\Documentos\csharp\csharpstudy\source\repos\ConsoleApp8.1\ConsoleApp8.1\bin\Debug\ConsoleApp8.1.exe.config
+D:\OneDrive\Documentos\csharp\csharpstudy\source\repos\ConsoleApp8.1\ConsoleApp8.1\bin\Debug\ConsoleApp8.1.exe
+D:\OneDrive\Documentos\csharp\csharpstudy\source\repos\ConsoleApp8.1\ConsoleApp8.1\bin\Debug\ConsoleApp8.1.pdb
+D:\OneDrive\Documentos\csharp\csharpstudy\source\repos\ConsoleApp8.1\ConsoleApp8.1\obj\Debug\ConsoleApp8.1.csproj.AssemblyReference.cache
+D:\OneDrive\Documentos\csharp\csharpstudy\source\repos\ConsoleApp8.1\ConsoleApp8.1\obj\Debug\ConsoleApp8.1.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Documentos\csharp\csharpstudy\source\repos\ConsoleApp8.1\ConsoleApp8.1\obj\Debug\ConsoleApp8.1.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documentos\csharp\csharpstudy\source\repos\ConsoleApp8.1\ConsoleApp8.1\obj\Debug\ConsoleApp8.1.exe
+D:\OneDrive\Documentos\csharp\csharpstudy\source\repos\ConsoleApp8.1\ConsoleApp8.1\obj\Debug\ConsoleApp8.1.pdb
